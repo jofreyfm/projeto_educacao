@@ -151,3 +151,4 @@ pelas informações obtidas nas guiding activities e nos guiding resources, todo
 Com base nas informações obtidas, pode-se afirmar que algumas soluções pertinentes seriam a implementação de aulas adaptadas para pessoas com necessidades especiais, aulas de reforço para conteudos base e aulas mais dinamicas para ter a atenção das pessoas desatentas.
 
 ## Implementation
+a implementação será focada na parte da falta de base que foi falada pelos entrevistados, serão feitos codigos em C para revisar assuntos basicos, como biologia, matematica e fisica.
