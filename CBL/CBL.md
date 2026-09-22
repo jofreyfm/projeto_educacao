@@ -11,11 +11,17 @@ fazer com que o ensino das pessoas melhore
 # investigate
 ## guiding questions 
 1- os estudantes tem dificuldade de aprender?
+
 2- quais são as dificuldades enfrentadas pelos alunos no aprendizado?
+
 3- o que poderia ser feito para melhorar a situação atual?
+
 4- quais são as dificuldades dos professores em ensinar?
+
 5- como funciona o sistema de ensino atual?
+
 6- grade fechada x grade aberta
+
 7- observações gerais de alunos e professores
 
 
