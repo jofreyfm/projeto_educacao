@@ -81,4 +81,73 @@ https://encenasaudemental.com/comportamento/insight/que-grade-seguir-aberta-ou-f
 https://share.google/aimode/rG7CUinpsgj5vKd3Y
 
 ## guiding activities
-### pergunta 1
+### perguntas feitas
+Para alunos
+1- tem dificuldades de aprender
+2- quais são as dificuldades enfrentadas?
+3- o que poderia ser feito para melhorar isso?
+4- o que acha os metodos de ensino atuais?
+5- grade fechada ou aberta?
+6- observações gerais
+
+### entrevistados
+Thais dantas
+1- tem
+2- TDAH 
+3- aulas menores adaptadas
+4- ruim, por que a aula e muito parada, muito barulho e Salas muito cheias, alem de ser muito sistemático,  burocrático e ter muita necessidade de decorar conteudos
+5- grade aberta, pois é mais flexivel
+6- atenção especial a pessoas com dificuldades, especialização, suporte emocional e condições melhores para os professores
+
+Luiz tostes
+1- depende da materia e se é uma area de interesse/facilidade
+2- sem base forte para as materias
+3- rever as materias a partir da parte onde começou a dificuldade 
+4- falhos, a maioria foca em jogarem uma grande quantidade de conteudos para só gravar para prova, sem aprender realmente
+5- aberta, por causa da flexibilidade 
+6- mudar para não decorar só para prova, e sim realmente aprender o conteudo, notas focadas mais nas atividades e não tanto nas provas
+
+Paulo Henrique 
+1- sim
+2- base forte 
+3- aula complementar e mapas mentais
+4- falta de interesse dos professores
+5- fechada, pois fica mais confortável
+
+Leandro alves
+1- sim
+2- concentração e barulho
+3- sons constantes para concentrar
+4- mais materiais para usar nas aulas
+5- fechada, pois acha mais organizada
+6- muita materia irrelevante
+
+Lorena moncorvo
+1- sim
+2- concentração 
+3- aulas mais dinâmicas 
+4- mediano, metodos de ensino muito uniformes e nao adaptativo
+5- aberta, pela possibilidade de organizar como preferir
+
+Gabriela lima
+1- sim
+2- muito entendiada, sem foco
+3- nao sabe
+4- basico, as escolas não preparam as pessoas para ter um raciocínio logico e científico, muita decoreba
+5- fechada por ter uma ordem predefinida
+
+Tyago silva
+1- muita
+2- tdah
+3- pessoal
+4- medio, a metodologia das aulas, falta de interesse 
+5- fechada, ja tem uma ordem predefinida
+
+## analysis
+pelas informações obtidas nas guiding activities e nos guiding resources, todos os alunos entrevistados tem algum nivel de dificuldade em aprender, os principais motivos relatados foram o TDAH(Transtorno do Déficit de Atenção com Hiperatividade), a falta de base nas materias e desatenção. 
+
+# act
+## solution
+Com base nas informações obtidas, pode-se afirmar que algumas soluções pertinentes seriam a implementação de aulas adaptadas para pessoas com necessidades especiais, aulas de reforço para conteudos base e aulas mais dinamicas para ter a atenção das pessoas desatentas.
+
+## Implementation
